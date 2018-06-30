@@ -12,6 +12,7 @@ function query($query) {
         $rows[] = $row;
     }
     return $rows;
+    edit
 }
 
 
